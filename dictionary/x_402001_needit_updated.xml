@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element audit="true" extends="task" label="updated" max_length="40" name="x_402001_needit_updated" sizeclass="1" type="collection">
+        <element label="Field1" max_length="40" name="field1" type="string"/>
+        <element label="field2" max_length="40" name="field2" type="integer"/>
+    </element>
+</database>

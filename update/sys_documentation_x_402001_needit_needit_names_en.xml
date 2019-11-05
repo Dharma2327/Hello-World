@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="names" label="Names" language="en" table="x_402001_needit_needit">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>names</element>
+            <help/>
+            <hint/>
+            <label>Names</label>
+            <language>en</language>
+            <name>x_402001_needit_needit</name>
+            <plural>Names</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-09-18 20:34:41</sys_created_on>
+            <sys_id>267d4b58db4c001087b1a455ca961981</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Names</sys_name>
+            <sys_package display_value="Needit" source="x_402001_needit">82471821db73330087b1a455ca96194f</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Needit">82471821db73330087b1a455ca96194f</sys_scope>
+            <sys_update_name>sys_documentation_x_402001_needit_needit_names_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-09-18 20:34:41</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

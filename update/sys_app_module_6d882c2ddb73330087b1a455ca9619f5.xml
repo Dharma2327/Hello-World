@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="Needit">0647d061db73330087b1a455ca961994</application>
+        <assessment/>
+        <content_page/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>LIST</link_type>
+        <map_page/>
+        <mobile_title>updated</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>x_402001_needit_updated</name>
+        <order/>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <roles>x_402001_needit.user</roles>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-09-09 19:30:42</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>6d882c2ddb73330087b1a455ca9619f5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>updated</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Needit" source="x_402001_needit">82471821db73330087b1a455ca96194f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Needit">82471821db73330087b1a455ca96194f</sys_scope>
+        <sys_update_name>sys_app_module_6d882c2ddb73330087b1a455ca9619f5</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-09-09 19:30:42</sys_updated_on>
+        <timeline_page/>
+        <title>updated</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+        <x_402001_chandu_lo_city/>
+        <x_402001_chandu_lo_country/>
+        <x_402001_chandu_lo_state/>
+        <x_402001_chandu_so_avaliable_count/>
+        <x_402001_chandu_so_image/>
+        <x_402001_chandu_us_assigned_to_user/>
+        <x_402001_chandu_us_software_names/>
+        <x_402001_software_cost/>
+        <x_402001_software_description/>
+        <x_402001_software_name/>
+    </sys_app_module>
+</record_update>

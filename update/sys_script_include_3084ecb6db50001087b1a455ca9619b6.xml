@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_script_include">
+    <sys_script_include action="INSERT_OR_UPDATE">
+        <access>package_private</access>
+        <active>true</active>
+        <api_name>x_402001_needit.IndeintHelper</api_name>
+        <client_callable>false</client_callable>
+        <description/>
+        <name>IndeintHelper</name>
+        <script><![CDATA[var IndeintHelper = Class.create();
+IndeintHelper.prototype = {
+    initialize: function() {
+    },
+	
+	setImpactBasedonCategory: function(obj){
+		
+		
+	gs.info("Inside business rule","Dharma-debug");
+	if(obj.category == 'hardware' && obj.short_description == 'test'){
+		gs.info("Inside If","Dharma-debug");
+		var impact = 3;
+		return impact;
+	}
+		
+	},
+
+    type: 'IndeintHelper'
+};]]></script>
+        <sys_class_name>sys_script_include</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-10-08 13:02:52</sys_created_on>
+        <sys_id>3084ecb6db50001087b1a455ca9619b6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>IndeintHelper</sys_name>
+        <sys_package display_value="Needit" source="x_402001_needit">82471821db73330087b1a455ca96194f</sys_package>
+        <sys_policy>read</sys_policy>
+        <sys_scope display_value="Needit">82471821db73330087b1a455ca96194f</sys_scope>
+        <sys_update_name>sys_script_include_3084ecb6db50001087b1a455ca9619b6</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-10-08 13:02:52</sys_updated_on>
+    </sys_script_include>
+</record_update>

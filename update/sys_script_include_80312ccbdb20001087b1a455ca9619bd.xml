@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_script_include">
+    <sys_script_include action="INSERT_OR_UPDATE">
+        <access>package_private</access>
+        <active>true</active>
+        <api_name>x_402001_needit.SumTWoNums</api_name>
+        <client_callable>false</client_callable>
+        <description>This on Demond classes Script Include passsed integer values</description>
+        <name>SumTWoNums</name>
+        <script><![CDATA[function SumTwoNums(int1,int2){
+	var mySum= int1+int2;
+	gs.addInfoMessage("the sum"  +int1+  "+"  + int2+ "="+mySum);
+}]]></script>
+        <sys_class_name>sys_script_include</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-10-21 17:50:42</sys_created_on>
+        <sys_id>80312ccbdb20001087b1a455ca9619bd</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>SumTWoNums</sys_name>
+        <sys_package display_value="Needit" source="x_402001_needit">82471821db73330087b1a455ca96194f</sys_package>
+        <sys_policy>read</sys_policy>
+        <sys_scope display_value="Needit">82471821db73330087b1a455ca96194f</sys_scope>
+        <sys_update_name>sys_script_include_80312ccbdb20001087b1a455ca9619bd</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-10-21 17:50:42</sys_updated_on>
+    </sys_script_include>
+</record_update>
